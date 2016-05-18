@@ -1,0 +1,12 @@
+
+[log_server]
+
+port = 5010
+
+thread_num = 10
+
+log_dir = "logs"
+
+[log_files]
+"test1.log" = 1
+"test2.log" = 2

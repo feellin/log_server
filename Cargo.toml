@@ -1,0 +1,10 @@
+[package]
+name = "log_server"
+version = "0.1.0"
+authors = ["feel2pt <bob@>"]
+
+[dependencies]
+mio = "0.5.1"
+toml = "0.1.29"
+lazy_static = "0.2.1"
+byteorder = "0.5.1"
